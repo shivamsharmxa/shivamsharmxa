@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsharmxa&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsharmxa" /> </p>
+
 <p align="left"> <a href="https://twitter.com/shivam_8702" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_8702?logo=twitter&style=for-the-badge" alt="shivam_8702" /></a> </p>
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/shivamsharmxa/Expense-Tracker)
@@ -13,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/shivamsharmxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivamsharmxa" height="30" width="40" /></a>
 <a href="https://twitter.com/shivam_8702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_8702" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivamsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamsharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shivam-sharma-95aa3726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-sharma-95aa3726a" height="30" width="40" /></a>
 <a href="https://fb.com/shivam sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivam sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamsharmxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsharmxa" height="30" width="40" /></a>
 </p>
