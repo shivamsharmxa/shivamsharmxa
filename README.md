@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharmas92565@gmail.com**
 
-- <img src="https://raw.githubusercontent.com/shivamsharmxa/shivamsharmxa/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
