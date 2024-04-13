@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivam_8702" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_8702?logo=twitter&style=for-the-badge" alt="shivam_8702" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/shivamsharmxa/Expense-Tracker)
+- 🔭 I’m currently working on [Apple Website](https://github.com/shivamsharmxa/Apple-Website)
 
 - 🌱 I’m currently learning **TypeScript**
 
