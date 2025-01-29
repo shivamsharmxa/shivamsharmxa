@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/shivamsharmxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivamsharmxa" height="30" width="40" /></a>
 <a href="https://twitter.com/shivam_8702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_8702" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shivam-sharma-95aa3726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-sharma-95aa3726a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shivamsharmxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-sharma-95aa3726a" height="30" width="40" /></a>
 <a href="https://fb.com/shivam sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivam sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamsharmxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsharmxa" height="30" width="40" /></a>
 </p>
